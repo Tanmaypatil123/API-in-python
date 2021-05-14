@@ -1,2 +1,1 @@
-# API-in-python
-This repository for api demo made using python.
+# this repository for projects in python
